@@ -15,7 +15,7 @@
     "@types/react": "^16.9.13",
     "@types/react-native": "^0.60.23",
     "@types/react-test-renderer": "^16.9.1",
-    "expo": "^33.0.0",
+    "expo": "^46.0.16",
     "react": "^16.9.0",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
